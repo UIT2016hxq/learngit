@@ -1,2 +1,3 @@
 第三方发生
 Git has a mutable index called stage.
+add
